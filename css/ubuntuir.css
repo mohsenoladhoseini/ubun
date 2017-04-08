@@ -1,0 +1,123 @@
+@import url(https://static.ubuntu.ir/fonts/droidnaskh.css);
+/*
+ * Website
+ */
+body {
+	margin: 0;
+	background-color: #ededed;
+	min-width: 1080px;
+	font-family: "Droid Arabic Naskh", serif;
+}
+pre {
+	direction: ltr;
+}
+#ubuntuir_logo {
+	float: left;
+	margin-top: 9px;
+	margin-left: 30px;
+}
+#ubuntuir_logo_footer {
+	float: left;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+#ubuntuir_header {
+	font-family: "Droid Arabic Naskh", serif;
+	font-size: 13px;
+	margin: 0;
+	background-color: #dd4814;
+	height: 48px;
+}
+.ubuntuir_header_active {
+	background-color: #b83a10;
+}
+#ubuntuir_header_navbar, #ubuntuir_footer_navbar {
+	width: auto;
+}
+#ubuntuir_header_navbar ul {
+	border-left: 1px solid #c64012;
+	border-right: 1px solid #ed6637;
+	display: inline;
+	padding: 0;
+	margin: 0;
+	margin-right: 30px;
+	list-style: none;
+	float: right;
+}
+#ubuntuir_header_navbar li {
+	border-right: 1px solid #c64012;
+	border-left: 1px solid #ed6637;
+	height: 48px;
+	float: right;
+	line-height: 48px;
+	margin-bottom: 0;
+}
+#ubuntuir_header_navbar li:hover {
+	background-color: #e1662f;
+}
+#ubuntuir_header_navbar a, #ubuntuir_navbar_items a:visited {
+	text-shadow: 0 1px #000;
+	color: #fff;
+	text-decoration: none;
+	padding: 8px 18px;
+}
+#ubuntuir_body {
+	background-color: #f7f7f7;
+	padding: 10px 0 10px 0;
+}
+#ubuntuir_body_text {
+	width: auto;
+	margin: 0 30px 0 30px;
+	background-color: #fff;
+	box-shadow: 0px 0px 3px #c9c9c9; border-radius: 4px;
+}
+#ubuntuir_footer {
+	font-family: "Droid Arabic Naskh", serif;
+	background-color: #ededed;
+	box-shadow: 0 2px 2px -1px #d3d3d3 inset;
+	font-size: 12px;
+}
+#ubuntuir_footer_text {
+	width: auto;
+	margin: 0 30px 0 30px;
+	padding-top: 10px;
+}
+#ubuntuir_footer_navbar a, #ubuntuir_footer_navbar a:visited {
+	color: #000;
+	text-decoration: none;
+}
+#ubuntuir_footer_navbar a:hover {
+	color: #dd4814;
+	text-decoration: underline;
+}
+#ubuntuir_footer_navbar ul {
+	margin: 0;
+	padding: 10px 30px 0px 50px;
+	float: right;
+}
+#ubuntuir_footer_navbar li {
+	display: block;
+	float: right;
+	border-left: 1px dotted #888;
+
+}
+#ubuntuir_footer_navbar_first li {
+	padding-right: 0 !important;
+}
+#ubuntuir_footer_navbar_last {
+	border-left: 0px none !important;
+}
+#ubuntuir_footer_navbar_inner ul {
+	margin: 0;
+	padding: 0;
+}
+#ubuntuir_footer_navbar_inner li {
+	display: block;
+	float: none;
+	padding: 0 25px 0 25px;
+	border-left: 0px none;
+}
+#ubuntuir_footer_navbar_inner_header {
+	padding-bottom: 3px;
+	text-shadow: 0 1px #bbb;
+}
