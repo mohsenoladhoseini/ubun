@@ -1,0 +1,30 @@
+#videos {
+	width: 900px;
+	margin: auto;
+	height: 170px;
+}
+#videos ul {
+	display: block;
+	list-style: outside none none;
+	padding: 0;
+}
+#videos li {
+	float: right;
+	padding: 12px;
+	text-align: center;
+	font-size: 13px;
+}
+#videos a {
+	text-decoration: none;
+	color: black;
+}
+#videos a:hover {
+	text-decoration: underline;
+	color: #dd4814;
+}
+#video_container {
+	width: 875px;
+	margin: auto;
+	padding-top: 10px;
+	font-weight: bold;
+}

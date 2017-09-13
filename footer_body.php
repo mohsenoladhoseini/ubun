@@ -1,15 +1,15 @@
 	</div>
 </div>
 <div id="ubuntuir_footer">
-	<a id="ubuntuir_logo_footer" href="http://ubuntu.ir/"><img src="https://static.ubuntu.ir/images/logo_footer.png" /></a>
+	<a id="ubuntuir_logo_footer" href="https://ubuntu.ir/"><img src="https://static.ubuntu.ir/images/logo_footer.png" /></a>
 	<div id="ubuntuir_footer_navbar">
 		<ul>
 			<li id="ubuntuir_footer_navbar_first">
 				<div id="ubuntuir_footer_navbar_inner">
 					<ul>
-						<li id="ubuntuir_footer_navbar_inner_header"><a href="http://ubuntu.ir">اوبونتو</a></li>
+						<li id="ubuntuir_footer_navbar_inner_header"><a href="https://ubuntu.ir">اوبونتو</a></li>
 						<li><a href="http://forum.ubuntu.ir/index.php/board,38.0.html">اخبار</a></li>
-						<li><a href="http://ubuntu.com/download">دریافت</a></li>
+						<li><a href="https://www.ubuntu.com/download">دریافت</a></li>
 					</ul>
 				</div>
 			</li>
@@ -25,9 +25,9 @@
 			<li id="ubuntuir_footer_navbar_last">
 				<div id="ubuntuir_footer_navbar_inner">
 					<ul>
-						<li id="ubuntuir_footer_navbar_inner_header"><a href="http://ubuntu.ir/support">کمک و پشتیبانی</a></li>
-						<li><a href="https://wiki.ubuntu.ir">ویکی فارسی</a></li>
-						<li><a href="http://ubuntu.ir/irc">کانال IRC</a></li>
+						<li id="ubuntuir_footer_navbar_inner_header"><a href="https://wiki.ubuntu.ir">ویکی فارسی</a></li>
+						<li><a href="https://ubuntu.ir/irc">کانال IRC</a></li>
+						<li><a href="https://ubuntu.ir/telegram">گروه Telegram</a></li>
 					</ul>
 				</div>
 			</li>
