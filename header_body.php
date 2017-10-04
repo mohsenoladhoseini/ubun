@@ -3,7 +3,7 @@
 		<div id="ubuntuir_header_navbar">
 		<ul>
 			<li <? if ($tpl["page"] == "main") { ?>class="ubuntuir_header_active"<? } ?>><a href="https://ubuntu.ir">اوبونتو</a></li>
-			<li><a href="http://forum.ubuntu.ir">انجمن‌های پشتیبانی</a></li>
+			<li><a href="https://forum.ubuntu.ir">انجمن‌های پشتیبانی</a></li>
 			<li <? if ($tpl["page"] == "wiki") { ?>class="ubuntuir_header_active"<? } ?>><a href="https://wiki.ubuntu.ir">ویکی فارسی</a></li>
 			<li <? if ($tpl["page"] == "videos") { ?>class="ubuntuir_header_active"<? } ?>><a href="https://videos.ubuntu.ir">ویدیوها</a></li>
 			<li <? if ($tpl["page"] == "events") { ?>class="ubuntuir_header_active"<? } ?>><a href="https://events.ubuntu.ir">همایش‌ها</a></li>

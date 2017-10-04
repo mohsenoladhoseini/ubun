@@ -8,7 +8,7 @@
 				<div id="ubuntuir_footer_navbar_inner">
 					<ul>
 						<li id="ubuntuir_footer_navbar_inner_header"><a href="https://ubuntu.ir">اوبونتو</a></li>
-						<li><a href="http://forum.ubuntu.ir/index.php/board,38.0.html">اخبار</a></li>
+						<li><a href="https://forum.ubuntu.ir/index.php/board,38.0.html">اخبار</a></li>
 						<li><a href="https://www.ubuntu.com/download">دریافت</a></li>
 					</ul>
 				</div>
@@ -16,9 +16,9 @@
 			<li>
 				<div id="ubuntuir_footer_navbar_inner">
 					<ul>
-						<li id="ubuntuir_footer_navbar_inner_header"><a href="http://forum.ubuntu.ir">انجمن‌های پشتیبانی</a></li>
-						<li><a href="http://forum.ubuntu.ir/index.php/topic,242.0.html">قوانین انجمن</a></li>
-						<li><a href="http://forum.ubuntu.ir/index.php?action=register">ثبت‌نام</a></li>
+						<li id="ubuntuir_footer_navbar_inner_header"><a href="https://forum.ubuntu.ir">انجمن‌های پشتیبانی</a></li>
+						<li><a href="https://forum.ubuntu.ir/index.php/topic,242.0.html">قوانین انجمن</a></li>
+						<li><a href="https://forum.ubuntu.ir/index.php?action=register">ثبت‌نام</a></li>
 					</ul>
 				</div>
 			</li>
